@@ -8,4 +8,4 @@ Reducing attrition rates through a detailed analysis of employee data to identif
 # **Analysis**
 ## **SMART Framework**
 
-![](Slide Analysis\Attrition Analysis (1).jpg)
+<img src="Slide Analysis\Attrition Analysis (1).jpg"></img>
