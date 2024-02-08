@@ -1,5 +1,9 @@
-# Attrition-Analysis
+# **Attrition Analysis**
+## **Objective**
 Mengurangi persentase attrition perusahaan sampai sebesar < 10% dalam 6 bulan berikutnya. Hal ini akan dicapai dengan meningkatkan gaji, kualitas lingkungan kerja, training waktu dan juga memperhatikan work life balance karyawan sehingga dapat meningkatkan produktivitas dan revenue perusahaan
+
+# **Tech stack**: 
+Python, Pandas, scikit-learn, matplotlib, seaborn
 
 # **Tableau HR Analytics Dashboard**
 
